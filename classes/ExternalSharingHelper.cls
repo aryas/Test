@@ -1,5 +1,5 @@
 public class ExternalSharingHelper { 
-    
+    //class to be used for sf2sf integration
     @future 
     public static void linkContact(Map<Id,Id> contactIdMap) { 
   
